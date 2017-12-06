@@ -12,7 +12,7 @@ var products = [
  "Caterpillar cake" 
 
 ];
-var price = [15,20,30,80,100];
+var price = [37,22,25,74,90];
 
 var productsText = "";
 var productsText

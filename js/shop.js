@@ -12,7 +12,7 @@ var products = [
  "Caterpillar cake" 	
 
 ];
-var prices = [15,20,30,80,100];
+var prices = [37,22,25,74,90];
 
 var productsText = "";
 var productsElement = document.getElementById("product-list");
